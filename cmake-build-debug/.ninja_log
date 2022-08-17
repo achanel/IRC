@@ -1,0 +1,18 @@
+# ninja log v5
+2	800	1660732737000000000	CMakeFiles/kamil_irk.dir/src/main.cpp.o	c4ef709f5e46ed41
+0	859	1660732737000000000	CMakeFiles/kamil_irk.dir/src/Bot.cpp.o	b01e991bb1bd1491
+0	884	1660732737000000000	CMakeFiles/kamil_irk.dir/src/Channel.cpp.o	b251404f74ad8b8c
+0	923	1660732737000000000	CMakeFiles/kamil_irk.dir/src/Client.cpp.o	977ca9788f5c8e65
+1	988	1660732737000000000	CMakeFiles/kamil_irk.dir/src/Server.cpp.o	fc20e73ebf416ee2
+1	1107	1660732737000000000	CMakeFiles/kamil_irk.dir/src/Message.cpp.o	2dd2f32d3394aa23
+1107	1157	1660732737000000000	kamil_irk	74a0590a95a620df
+3	532	1660732963000000000	CMakeFiles/kamil_irk.dir/src/Client.cpp.o	977ca9788f5c8e65
+532	581	1660732963000000000	kamil_irk	74a0590a95a620df
+3	537	1660733073000000000	CMakeFiles/kamil_irk.dir/src/Client.cpp.o	977ca9788f5c8e65
+537	587	1660733073000000000	kamil_irk	74a0590a95a620df
+2	836	1660733457000000000	CMakeFiles/kamil_irk.dir/src/Message.cpp.o	2dd2f32d3394aa23
+836	887	1660733457000000000	kamil_irk	74a0590a95a620df
+3	722	1660733611000000000	CMakeFiles/kamil_irk.dir/src/Message.cpp.o	2dd2f32d3394aa23
+722	778	1660733611000000000	kamil_irk	74a0590a95a620df
+2	672	1660734806000000000	CMakeFiles/kamil_irk.dir/src/Message.cpp.o	2dd2f32d3394aa23
+673	722	1660734806000000000	kamil_irk	74a0590a95a620df

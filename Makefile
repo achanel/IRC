@@ -1,8 +1,8 @@
 NAME = ircserv
 
-SRCS = main.cpp Server.cpp Client.cpp	Message.cpp
+SRCS = main.cpp Server.cpp Client.cpp	Message.cpp		Channel.cpp		Bot.cpp
 
-INCS = Server.hpp Client.hpp	Message.cpp
+INCS = Server.hpp Client.hpp	Message.cpp		Channel.hpp		Bot.hpp
 
 OBJS = $(addprefix objs/, $(SRCS:.cpp=.o))
 

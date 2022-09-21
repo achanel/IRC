@@ -14,7 +14,9 @@ IRC начал завоёвывать особенную популярност�
 
 # RUN
 
+```bash
 make && ./ircserv <port> <password>
+```
 
 # RFC documentation
 
